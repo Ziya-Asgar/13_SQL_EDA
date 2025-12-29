@@ -1,13 +1,17 @@
 # Notes
 
+- [Notes](#notes)
+  - [Intro](#intro)
+  - [Project Details](#project-details)
+  - [Learning Resource](#learning-resource)
+
+---
+
 ## Intro
 
 This is a SQL Exploratory Data Analysis project. The project involves querying the database, using aliases for table names, `JOIN`s, `UNION`s, subqueries, ranking using the window functions, aggregate functions, grouping, ordering, limiting the result set, and using date functions.
 
-It could be coded along following this video:  
-[SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
-
-My code differs from the video, as I implemented this project in PostgreSQL, whereas the video tutorial is based on a different SQL Database Management System.
+---
 
 ## Project Details
 
@@ -37,3 +41,12 @@ The project concludes with a ranking analysis that involves listing:
 - 5 subcategories that generate the highest revenue,
 - 10 customers who have generated the highest revenue, and
 - 3 customers with the fewest orders placed.
+
+---
+
+## Learning Resource
+
+The project can be coded along following this video:  
+[SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
+
+My code differs from the video, as I implemented this project in PostgreSQL, whereas the video tutorial is based on a different SQL Database Management System.
